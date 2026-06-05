@@ -1,36 +1,42 @@
-C Programming Projects
+# OOP Projects
 
-This repository contains C programming projects focused on real-world applications using structured programming, file handling, and console-based interfaces
+This repository contains Object-Oriented Programming projects demonstrating core OOP concepts such as classes, inheritance, encapsulation, and polymorphism applied to real-world scenarios.
 
-•Projects
+---
 
-1. Banking System-
+## Projects
 
-A Banking System developed in C programming for account creation, deposits, withdrawals, and balance management with secure file-based record keeping.
+### 1. Employee Management System
 
-• Features
+An Employee Management System developed using OOP principles for managing employee records, departments, and salary information within an organization.
 
--Create new bank account
--Deposit money
--Withdraw money
--Check account balance
--Delete account
+**Features**
+- Add new employee
+- Assign department
+- Manage salary details
+- Search employee records
+- Update employee information
+- Delete employee
 
-2. Students Attendance System-
+---
 
-A Student Attendance System developed in C programming for recording, tracking, and managing student attendance with report generation and search functionality.
+### 2. Employee Performance System
 
-• Features
+An Employee Performance System developed using OOP principles for evaluating employee performance based on salary, assigned tasks, working hours, and focus level.
 
--Mark student attendance (Present / Absent)
--View attendance records
--Search student attendance
--Calculate attendance percentage
--Update and delete records
+**Features**
+- Record and track assigned tasks
+- Log working hours
+- Evaluate focus and productivity level
+- Calculate performance score
+- View performance report per employee
+- Update and manage performance data
 
-• Technology Used
+---
 
--C Programming Language
--File Handling
--Structures & Pointers
--Console-based UI (stdio.h)
+## Technology Used
+
+- C++ / Java (OOP Language)
+- Object-Oriented Concepts (Classes, Inheritance, Encapsulation)
+- File Handling
+- Console-based UI
